@@ -1,6 +1,5 @@
-# My Digital Sanctuary
-
-This project is a personal online platform designed to showcase my unique blend of interests in computer science, chaos magick, outdoorsmanship, and historical mythology. The website features a portfolio, resume/CV, blog posts, and a photo gallery.
+# JW Lawrence
+This is a heavily WIP site. Don't know exactly what I'll do with it yet. Probably just display a portfolio, CV, and some pictures.
 
 ## Structure
 
@@ -9,11 +8,3 @@ This project is a personal online platform designed to showcase my unique blend 
 - **resume.html**: Resume/CV area sharing my academic and professional experience.
 - **blog.html**: Blog platform for publishing articles on chaos magick, historical mythology, and outdoorsmanship.
 - **photos.html**: Photo gallery featuring images from my adventures.
-
-## Setup
-
-To set up the project, clone the repository and install dependencies using npm or yarn:
-
-```bash
-git clone https://github.com/YourUsername/MyDigitalSanctuary.git
-npm install
